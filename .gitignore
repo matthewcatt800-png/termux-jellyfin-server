@@ -1,0 +1,12 @@
+# Media and Jellyfin private data
+jellyfin-media/
+config/
+cache/
+logs/
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.*
+*.log
+.DS_Store
